@@ -222,7 +222,7 @@ img {
   .team-section .team-items .inner .info{
   background-color: #428bca;
   text-align: center;
-  padding: 20px; 15px;
+  padding: 20px 15px;
   border-radius: 8px;
   transition: all .3s ease;
   margin-top: -40px;
@@ -345,7 +345,7 @@ img {
     background: #33393d;
     color: white;
     border: none;
-    padding: 2.5rem, 1.3rem;
+    padding: 2.5rem 1.3rem;
     line-height: 1.4rem;
   }
  
