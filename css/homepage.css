@@ -6,8 +6,8 @@
 }
 
 body{
-  padding: 0px;
-  margin: 0px;
+  padding: 0;
+  margin: 0;
   background: white;
 }
 
@@ -333,10 +333,9 @@ img {
   .sub-input{
    background: white;
    color: white;
-   margin-bottom: 0px;
+   margin-bottom: 0;
    padding: 10px;
    height: 40px;
-   size: 50px;
    border: none;
  }
  
@@ -357,8 +356,8 @@ img {
    width: 100%;
    text-align: center;
    position: absolute;
-   bottom: 0px;
-   left: 0px;
+   bottom: 0;
+   left: 0;
    padding-top: 15px;
    padding-bottom: 10px;
  }
